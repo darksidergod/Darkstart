@@ -1,4 +1,4 @@
-# block-starter
+# Darkstart
 An  ethereum-blockchain based implementation of kickstart which fixes the issue of the funding being misused under some personal agenda.
 
 ## Getting Started
